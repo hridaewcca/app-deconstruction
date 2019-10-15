@@ -1,4 +1,10 @@
 Game name SUPERHOT - VR GAME
-Components - Hands, weapons, enemies, environment, bullets
-Data - headset xy position, controllers xy position, headset and controller velocity, trigger input, grip input, controller tip
-angle, headset angle, bullet headset interception point, approximate position
+
+Render - Hands, weapons, bullets, bullet trajectory, enemies, destroyed enemies, environments, exit block, enemy movement
+animation (shooting, ducking, punching, dying)
+
+Components - Hands, weapons, enemies, environment, bullets, headset, controllers, pc, breakout box, wires,
+infrared shooters(lighthouse), infrared receivers(headset), LCD Panel (@90hz), 
+
+Data - headset xy position, controllers xy position, headset and controller velocity, trigger input, grip input,
+controller tip angle, headset angle, bullet headset interception point, approximate position
